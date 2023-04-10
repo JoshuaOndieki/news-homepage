@@ -213,7 +213,9 @@ hr {
     }
 
     nav {
-        display: none;
+        content: url("assets/images/icon-menu.svg");
+        cursor: pointer;
+        justify-self: end;
     }
 
     #main-image {
